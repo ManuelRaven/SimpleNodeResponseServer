@@ -1,0 +1,24 @@
+{
+  "name": "simplenoderesponseserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManuelRaven/SimpleNodeResponseServer.git"
+  },
+  "author": "Manuel Rabenmüller",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ManuelRaven/SimpleNodeResponseServer/issues"
+  },
+  "homepage": "https://github.com/ManuelRaven/SimpleNodeResponseServer#readme",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1"
+  }
+}
