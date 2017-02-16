@@ -16,3 +16,8 @@ npm install
 * GET mit Query - http://localhost:8081/g/?id=1
 * GET mit Header - http://localhost:8081/h/
 * POST mit Body - http://localhost:8081/p/
+
+### Bevorzugte Client Programme
+* [Postman](https://www.getpostman.com/)
+* [Fiddler](http://www.telerik.com/fiddler)
+* [Wireshark](https://www.wireshark.org/)
