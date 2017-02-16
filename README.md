@@ -1,6 +1,6 @@
 # SimpleNodeResponseServer
 
-Einfache NodeJS Server der auf verschidene HTTP Methoden antwortet.
+Einfacher NodeJS Server der auf verschidene HTTP Methoden antwortet.
 
 
 ### Installation
