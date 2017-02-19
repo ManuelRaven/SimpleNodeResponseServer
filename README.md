@@ -13,9 +13,7 @@ npm install
 ```
 
 ### Mögliche Methoden
-* GET mit Query - http://localhost:8081/g/?id=1
-* GET mit Header - http://localhost:8081/h/
-* POST mit Body - http://localhost:8081/p/
+* OPTIONS - http://localhost:8081
 
 ### Bevorzugte Client Programme
 * [Postman](https://www.getpostman.com/)
